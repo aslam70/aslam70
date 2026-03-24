@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi there, I'm Aslam! 👋
+### 🚀 Frontend Developer | Learning MERN Stack
 
-<!--
-**aslam70/aslam70** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Currently building: **APEX Sports E-commerce** & **English Janala**
+- 🌱 Learning: **Node.js · Express · MongoDB**
+- 💼 Available for freelance work
+- 📫 Reach me: [LinkedIn](https://linkedin.com/in/md-aslam-hosen-8594702b8) · [Portfolio](https://aslamdev.netlify.app)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Languages and Tools
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,git,github,figma,vscode,nodejs,mongodb" />
+  </a>
+</p>
+
+---
+
+### 📊 GitHub Stats
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=aslam70&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aslam70&layout=compact&theme=radical" />
+</p>
+
+---
+
+### 🏆 GitHub Trophies
+<p align="left">
+  <img src="https://github-profile-trophy.vercel.app/?username=aslam70&theme=radical" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=aslam70&label=Profile%20views&color=7847ff&style=flat" />
+</p>
