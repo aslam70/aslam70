@@ -4,7 +4,7 @@
 - 🔭 Currently building: **APEX Sports E-commerce** & **English Janala**
 - 🌱 Learning: **Node.js · Express · MongoDB**
 - 💼 Available for freelance work
-- 📫 Reach me: [LinkedIn](https://linkedin.com/in/md-aslam-hosen-8594702b8) · [Portfolio](https://aslamdev.netlify.app)
+- 📫 Reach me: [LinkedIn](https://linkedin.com/in/md-aslam-hosen-8594702b8) · [Portfolio](https://aslam-dev-ecru.vercel.app/)
 
 ---
 
